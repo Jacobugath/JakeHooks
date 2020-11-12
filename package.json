@@ -1,0 +1,23 @@
+{
+  "name": "jakehooks",
+  "version": "1.0.0",
+  "description": "Some handy React Hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacobugath/JakeHooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "Jacob Morris <Jacobthomasmorris@gmail.com> (https://jacobmorris.netlify.app/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacobugath/JakeHooks/issues"
+  },
+  "homepage": "https://github.com/Jacobugath/JakeHooks#readme"
+}
